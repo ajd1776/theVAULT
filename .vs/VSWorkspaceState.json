@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\bin",
+    "\\app\\bin\\Debug",
+    "\\app\\bin\\Debug\\net5.0",
+    "\\app\\obj",
+    "\\bin",
+    "\\bin\\Debug",
+    "\\bin\\Debug\\x86",
+    "\\ref"
+  ],
+  "SelectedNode": "\\MainMenu.cs",
+  "PreviewInSolutionExplorer": false
+}

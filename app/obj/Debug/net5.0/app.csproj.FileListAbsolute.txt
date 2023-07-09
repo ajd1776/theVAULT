@@ -1,0 +1,16 @@
+C:\Users\AJD17\OneDrive\Programming\theVAULT\app\bin\Debug\net5.0\app.exe
+C:\Users\AJD17\OneDrive\Programming\theVAULT\app\bin\Debug\net5.0\app.deps.json
+C:\Users\AJD17\OneDrive\Programming\theVAULT\app\bin\Debug\net5.0\app.runtimeconfig.json
+C:\Users\AJD17\OneDrive\Programming\theVAULT\app\bin\Debug\net5.0\app.runtimeconfig.dev.json
+C:\Users\AJD17\OneDrive\Programming\theVAULT\app\bin\Debug\net5.0\app.dll
+C:\Users\AJD17\OneDrive\Programming\theVAULT\app\bin\Debug\net5.0\app.pdb
+C:\Users\AJD17\OneDrive\Programming\theVAULT\app\obj\Debug\net5.0\app.csproj.AssemblyReference.cache
+C:\Users\AJD17\OneDrive\Programming\theVAULT\app\obj\Debug\net5.0\app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AJD17\OneDrive\Programming\theVAULT\app\obj\Debug\net5.0\app.AssemblyInfoInputs.cache
+C:\Users\AJD17\OneDrive\Programming\theVAULT\app\obj\Debug\net5.0\app.AssemblyInfo.cs
+C:\Users\AJD17\OneDrive\Programming\theVAULT\app\obj\Debug\net5.0\app.csproj.CoreCompileInputs.cache
+C:\Users\AJD17\OneDrive\Programming\theVAULT\app\obj\Debug\net5.0\app.dll
+C:\Users\AJD17\OneDrive\Programming\theVAULT\app\obj\Debug\net5.0\ref\app.dll
+C:\Users\AJD17\OneDrive\Programming\theVAULT\app\obj\Debug\net5.0\app.pdb
+C:\Users\AJD17\OneDrive\Programming\theVAULT\app\obj\Debug\net5.0\app.genruntimeconfig.cache
+C:\Users\AJD17\OneDrive\Programming\theVAULT\app\obj\Debug\net5.0\refint\app.dll
